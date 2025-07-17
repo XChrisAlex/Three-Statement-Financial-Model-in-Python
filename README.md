@@ -51,8 +51,9 @@ assumptions = {
 git clone git@github.com:XChrisAlex/Three-Statement-Financial-Model-in-Python.git
 cd Three-Statement-Financial-Model-in-Python
 python -m venv venv
-venv\Scripts\activate
+.venv\Scripts\activate.ps1
 pip install -r requirements.txt
+python main.py
 ```
 # Feedback
 
