@@ -46,7 +46,7 @@ assumptions = {
 }
 
 ##  Installation
-
+```
 git clone git@github.com:XChrisAlex/Three-Statement-Financial-Model-in-Python.git
 cd Three-Statement-Financial-Model-in-Python
 python -m venv venv
@@ -54,7 +54,7 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 
 # Feedback
-
+```
 Your feedback is appreciated!
 If you have suggestions, bug reports, or want to contribute improvements:
 *Star this repository
