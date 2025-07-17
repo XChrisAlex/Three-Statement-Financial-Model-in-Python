@@ -48,9 +48,12 @@ assumptions = {
 #  Installation
 
 ```python
-git clone https://github.com/XChrisAlex/Three-Statement-Financial-Model-in-Python/tree/main
+git clone https://github.com/XChrisAlex/Three-Statement-Financial-Model-in-Python.git
 cd Three-Statement-Financial-Model-in-Python
+python -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
+
 
 ```
 # Feedback
