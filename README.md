@@ -52,3 +52,13 @@ cd Three-Statement-Financial-Model-in-Python
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
+
+# Feedback
+
+Your feedback is appreciated!
+If you have suggestions, bug reports, or want to contribute improvements:
+*Star this repository
+
+*Submit a pull request
+
+*Open an issue
