@@ -1,10 +1,10 @@
 # Three-Statement-Financial-Model-in-Python
 This project implements a basic three-statement financial model in Python that dynamically builds and links the Income Statement, Cash Flow Statement, and Balance Sheet over a multi-year forecast. It also computes key financial ratios by year.
-# 📊 Three-Statement Financial Model in Python
+#  Three-Statement Financial Model in Python
 
 This repository contains a basic **three-statement financial model** built in Python. It links together the **Income Statement**, **Cash Flow Statement**, and **Balance Sheet**, and calculates key **financial ratios** by year.
 
-## ✅ Features
+##  Features
 
 - Dynamic multi-year forecasting
 - Linked financial statements:
@@ -21,7 +21,7 @@ This repository contains a basic **three-statement financial model** built in Py
   - Leverage
   - Cash Flow
 
-## 🧮 Example Assumptions
+##  Example Assumptions
 
 ```python
 assumptions = {
@@ -45,3 +45,10 @@ assumptions = {
     "ap_percent": 0.2
 }
 
+##  Installation
+
+git clone git@github.com:XChrisAlex/Three-Statement-Financial-Model-in-Python.git
+cd Three-Statement-Financial-Model-in-Python
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+pip install -r requirements.txt
