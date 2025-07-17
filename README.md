@@ -45,7 +45,7 @@ assumptions = {
     "ap_percent": 0.2
 }
 
-##  Installation
+#  Installation
 
 ```python
 git clone git@github.com:XChrisAlex/Three-Statement-Financial-Model-in-Python.git
