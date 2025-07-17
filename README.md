@@ -50,8 +50,6 @@ assumptions = {
 ```python
 git clone git@github.com:XChrisAlex/Three-Statement-Financial-Model-in-Python.git
 cd Three-Statement-Financial-Model-in-Python
-python -m venv venv
-venv\Scripts\activate # On Mac use: source venv/bin/activate
 pip install -r requirements.txt
 
 ```
