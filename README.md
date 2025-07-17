@@ -44,7 +44,7 @@ assumptions = {
     "revolver_limit": 8000,
     "ap_percent": 0.2
 }
-
+```
 #  Installation
 
 ```python
@@ -53,7 +53,7 @@ cd Three-Statement-Financial-Model-in-Python
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
-
+```
 # Feedback
 
 Your feedback is appreciated!
